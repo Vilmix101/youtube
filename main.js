@@ -21,4 +21,4 @@ logoText.style.color = "red"
 
 
 function changeText()
-{logoText.innerHTML = "ffff"}
+// {logoText.innerHTML = "ffff"}
